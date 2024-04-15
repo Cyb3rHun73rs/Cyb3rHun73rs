@@ -1,4 +1,4 @@
-- 👋 Hi, We're @Cyb3rHun73rs Cybersecurity Team
+## 👋 Hi, We're @Cyb3rHun73rs Cybersecurity Team
 - 👀 We're interested in Cybersecurity, and technology matters
 - 📫 How to reach us: Send us an email to cyb3rhun73rs@gmail.com
 - 😄 Pronouns: We/Them
